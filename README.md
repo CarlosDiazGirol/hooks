@@ -15,7 +15,7 @@ Vamos a elegir las APIs de Pokemon y Rick and Morty, donde nos traeremos un pers
 
 Sigue estos pasos para crear un hook personalizado:
 
-1. Crearemos nuestro custom hook en el archivo `hooks/useCustomHook.js`.
+1. Crearemos nuestro custom hook en el archivo `hooks/useCustomHook.jsx`.
 2. Importa los hooks necesarios de React que vamos a usar
 3. Define tu función de hook. El nombre de la función debe comenzar con `use` para indicar que es un hook
 
